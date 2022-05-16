@@ -1,0 +1,1 @@
+a pull request allows you to contribute to someone elses code. if you accept this PR, this text file will be added to your project. You can make a PR first by forking a project. Forking also allows you to make your own version of someone elses project
